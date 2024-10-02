@@ -1,0 +1,5 @@
+.env
+venv
+data
+interactions_data
+__pycache__/
