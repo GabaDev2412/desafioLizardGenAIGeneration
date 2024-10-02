@@ -1,0 +1,14 @@
+langchain~=0.3.1
+langchain_google_genai
+langchain-community
+langchain-chroma
+fastapi~=0.115.0
+google-generativeai
+pypdf2
+chromadb
+uvicorn
+protobuf~=4.25.5
+python-multipart~=0.0.5
+python-dotenv~=1.0.1
+streamlit
+streamlit-chat
