@@ -3,7 +3,7 @@
 Esta é uma API desenvolvida com FastAPI para criar um chatbot que responde a perguntas com base no contexto de documentos PDF carregados. O chatbot utiliza o Google Generative AI e o Langchain para gerar respostas baseadas em documentos PDF fornecidos pelos usuários.
 
 ### OBSERVAÇÃO:
-- Neste repositório na branche main será encontrado somento o código backend que podera ser executado e testado por meio do fastapi, mas para melhor interação desenvolvi aparte do desafio um código utilizando streamlit para gerar uma interfacer para facilitar testes das funções e usabilidade. O código com o streamlit se encontra na branche master.
+- Neste repositório, na branch main, será encontrado apenas o código do backend, que pode ser executado e testado por meio do FastAPI. Contudo, para uma melhor interação, desenvolvi à parte do desafio um código utilizando Streamlit para gerar uma interface que facilita os testes das funções e da usabilidade. O código com o Streamlit está localizado na branch master.
 
 ## Funcionalidades
 
